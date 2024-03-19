@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<html>
+<head>
+    <title>Consulta de Notas</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    <form method="POST" action="consultar_notas.php">
+        <label for="matricula">Matrícula do Aluno:</label>
+        <input type="text" name="matricula" id="matricula">
+        <input type="submit" value="Ver Notas">
+    </form>
+    </form>
+    
+    <h2>Alunos por Disciplina</h2>
+
+    <form action="alunos_disciplina.php" method="POST">
+        <label for="disciplina_consulta">Disciplina:</label>
+        <select id="disciplina_consulta" name="disciplina_consulta" required>
+            <option value="Matemática">Matemática</option>
+            <option value="História">História</option>
+            <option value="Física">Física</option>
+            <option value="Química">Química</option>
+            <option value="Geografia">Geografia</option>
+        </select>
+        <br>
+        <br>
+    
+        <input type="submit" value="Consultar Alunos">
+    </form>
+</body>
+</html>
