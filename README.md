@@ -49,6 +49,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-## 🥇 Ideia principal do projeto 
-
 
