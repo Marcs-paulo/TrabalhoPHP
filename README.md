@@ -16,10 +16,6 @@ Esse é um dos meus primeiros projetos PHP, que desenvolvi durante a disciplina 
 
 <br>
 
-<p align="center">
-  <img alt="Projeto DevLinks" src=".github/preview.png" width="100%">
-</p>
-
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
