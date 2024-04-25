@@ -1,7 +1,7 @@
 <h1 align="center"> Projeto PHP </h1>
 
 <p align="center">
-Esse é um dos meus primeiros projetos PHP, que desenvolvi durante a disciplina de Banco de dados. Lembrando que este é um trabalho realizado em grupo por isso outros colegas meus podem ter repositorios semelhantes 
+Esse é um dos meus primeiros projetos PHP, que desenvolvi durante a disciplina de Banco de dados. Lembrando que este é um trabalho realizado em grupo, por isso outros colegas meus podem ter repositórios semelhantes 
 </p>
 
 <p align="center">
